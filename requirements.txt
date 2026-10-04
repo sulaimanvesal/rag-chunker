@@ -1,0 +1,3 @@
+# Runtime: zero dependencies (stdlib only)
+# Dev / tests:
+pytest>=8.0
